@@ -22,6 +22,8 @@ The project directory includes the following files:
 
 - README.md             ## This README file
 
+- After running the example.py file, three more files will populate in the folder corresponding to 1) participants in order of analysis 2) a .txt file of the similarity matrix for functional connectivity ready to be uploaded and inputted into the SNF package 3) a .txt file of the similarity matrix for structural connectivity ready to be uploaded and inputted into the SNF package
+
 
 ## Usage
 
@@ -32,5 +34,5 @@ The project directory includes the following files:
 3.	Run the Analysis: To execute the analysis, simply run the example.py script. 
 
 
-# Funded/Supported by the CoNeCT Lab at the University of Illinois,  Chicago
-Developed by Theresa Nguyen, with special thanks to Paul Thomas for guidance
+# Funded/Supported by the CoNeCT Lab at the University of Illinois, Chicago
+Developed by Theresa Nguyen, with gratitude to Paul Thomas for guidance
